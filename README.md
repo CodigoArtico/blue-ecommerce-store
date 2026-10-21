@@ -20,7 +20,7 @@
 
 > [!NOTE]
 > ### 👋 Un saludo del autor
-> *¡Hola a todos! Este proyecto lo desarrollé en el **2024** como el canal de ventas online y vitrina digital para el ecosistema **Código Ártico**. Diseñado para trabajar de la mano con el sistema administrativo [Blue POS System](https://github.com/CodigoArtico/blue-pos-system), lo comparto de forma abierta para que cualquier emprendedor o programador pueda montar su propia tienda web moderna y recibir pedidos directamente.*
+> *¡Hola a todos! Este proyecto lo desarrollé en el **2024** como la contraparte de tienda online para el ecosistema **Código Ártico**. Diseñado para conectarse al [Blue POS System](https://github.com/CodigoArtico/blue-pos-system), lo comparto de forma abierta para quien necesite una base para algún proyecto pequeño o para aprender cómo vincular una tienda web con un sistema de ventas.*
 
 ---
 
